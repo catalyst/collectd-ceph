@@ -1,8 +1,8 @@
 Source: collectd-ceph
 Section: net
 Priority: optional
-Maintainer: Ricardo Rocha <ricardo@catalyst.net.nz>
-Uploaders: Ricardo Rocha <ricardo@catalyst.net.nz>
+Maintainer: Catalyst Cloud Support <support@cloud.catalyst.net.nz>
+Uploaders: Andrew Ruthven <puck@catalyst.net.nz>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 Homepage: https://github.com/rochaport/collectd-ceph
