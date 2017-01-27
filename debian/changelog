@@ -1,3 +1,9 @@
+collectd-ceph (0.5.1-1ubuntu1) UNRELEASED; urgency=medium
+
+  * Split out op per sec to read and write.
+
+ -- Andrew Ruthven <puck@catalyst.net.nz>  Fri, 27 Jan 2017 22:18:59 +1300
+
 collectd-ceph (0.5.0-1ubuntu1) precise; urgency=medium
 
   * Merge pull request for Giant support
